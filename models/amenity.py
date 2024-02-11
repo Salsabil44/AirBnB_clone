@@ -1,6 +1,5 @@
 #!/usr/bin/python3
-#by sally
-"""Defines the Amenity class."""
+"""Defines the Amenity classally."""
 from models.base_model import BaseModel
 
 
